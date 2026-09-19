@@ -4,7 +4,9 @@ Welcome to the **Data Warehouse and Analytics Project** repository!
 This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project highlights industry best practices in data engineering and analytics.
 
 ---
+
 ## 🚀 Project Requirements
+
 ### Building the Data Warehouse (Data Engineering)
 
 #### Objective
@@ -18,6 +20,7 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 - **Documentation**: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
 
   ---
+  
   ### BI: Analytics & Reporting (Data Analytics)
 
   #### Objective
@@ -29,10 +32,13 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 These insights empower stakeholders key business metrices, enabling strategic decision-making.
 
 ---
+
 ## 📜 License
+
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
 
 ## 👨‍💻 About Me
+
 Hi there! I'm **Jenin Marwan Fares**, I'm a Computer Systems Engineering Student (Final Year) and an Aspiring Data Analyst.
-Passionate about transforming raw data into actionable insights using SQL & Data Visualization. Always eager to learn and build !
+Passionate about transforming raw data into actionable insights using SQL & Data Visualization. Always eager to learn and build!
 - **Documentation**: Provide clear documentation of the data model to support both business stakeholders and analytics teams.[cite: 2]
