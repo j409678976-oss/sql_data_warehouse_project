@@ -34,6 +34,6 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## 👨‍💻 About Me
 Hi there! I'm **Jenin Marwan Fares**, I'm a Computer Systems Engineering Student (Final Year) and an Aspiring Data Analyst.
-Passionate about transforming raw data into actionable insights using SQL & Data Visualization. Always eager to learn and build!
+Passionate about transforming raw data into actionable insights using SQL & Data Visualization. Always eager to learn and build !
   
 - **Documentation**: Provide clear documentation of the data model to support both business stakeholders and analytics teams.[cite: 2]
